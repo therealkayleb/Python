@@ -26,3 +26,6 @@ def dig_clock():
 dig_clock()
 
 root.mainloop()
+
+#we mad it
+
